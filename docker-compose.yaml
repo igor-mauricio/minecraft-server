@@ -10,5 +10,6 @@ services:
       - 7865:7865
       - 25565:25565 # Add the necessary port mappings for the minecraft servers
       - 5174:5174
+      
 volumes:
     mcdash:
